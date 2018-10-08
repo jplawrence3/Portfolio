@@ -1,0 +1,50 @@
+
+
+h1 {
+	font-size:50px;
+	color: #800000 ;
+	font-family: Georgia;
+	text-align: center;
+
+}
+h6 {font-family: Georgia;
+	text-align: center;
+}
+h7 {text-transform: uppercase;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 300px;
+}
+p {
+	line-height: 19px:;
+	font-weight: bold;
+	color: black;
+	font-family "Bai Jamjuree", sans-serif;
+	text-align center;
+}
+li {font-weight: bolder;
+	color: white;
+	text-decoration: underline;
+	text-align center;
+	text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.byline {
+	font-style: italic;
+}
+
+.Related-Articles {
+	text-transform: uppercase;
+}
